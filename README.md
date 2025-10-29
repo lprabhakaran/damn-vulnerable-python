@@ -1,4 +1,4 @@
-# Damn Vulnerable Model Context Protocol (DVMCP)     test 
+# Damn Vulnerable Model Context Protocol (DVMCP)     test test
 
 A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes.   
 
